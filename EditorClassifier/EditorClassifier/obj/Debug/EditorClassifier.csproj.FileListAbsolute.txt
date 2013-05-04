@@ -1,0 +1,6 @@
+C:\Documents and Settings\User\мои документы\visual studio 2010\Projects\EditorClassifier\EditorClassifier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\мои документы\visual studio 2010\Projects\EditorClassifier\EditorClassifier\bin\Debug\EditorClassifier.vsix
+C:\Documents and Settings\User\мои документы\visual studio 2010\Projects\EditorClassifier\EditorClassifier\bin\Debug\extension.vsixmanifest
+C:\Documents and Settings\User\мои документы\visual studio 2010\Projects\EditorClassifier\EditorClassifier\obj\Debug\EditorClassifier.dll
+C:\Documents and Settings\User\мои документы\visual studio 2010\Projects\EditorClassifier\EditorClassifier\obj\Debug\EditorClassifier.pdb
+C:\Documents and Settings\User\мои документы\visual studio 2010\Projects\EditorClassifier\EditorClassifier\obj\Debug\extension.vsixmanifest
